@@ -1,2 +1,13 @@
-# Concesionaria_Guerriero
-El proyecto consiste en el diseño y desarrollo de una base de datos para una concesionaria oficial de la marca Peugeot que comercializa vehículos 0 km, específicamente los modelos Peugeot 208 y Peugeot 2008.
+**Matias Guerriero**
+# 📌 Entrega 1 - Base de Datos - Concesionaria
+
+## 📄 Descripción del proyecto
+Este proyecto corresponde a la **Entrega 1** del curso de Lenguaje SQL.  
+La base de datos modela una concesionaria de autos **Peugeot** que ofrece planes de cuotas para la compra de vehículos 0 km.
+
+Incluye:
+- Modelos disponibles: 208 y 2008.
+- Versiones: Allure, GT (y otras según disponibilidad).
+- Planes de pago (ejemplo: 70/30).
+- Opción de entrega de usado como parte de pago.
+- Registro de clientes y sus compras.
